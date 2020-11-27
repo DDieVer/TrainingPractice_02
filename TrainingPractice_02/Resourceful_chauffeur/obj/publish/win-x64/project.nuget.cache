@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwrELi4FlPanQatIB8AUtK38eOflRZyJVqQrmh485vO/hP+KpPIjEsv2FD4f/LwTrgtKhV4+nObqFL3xQ/0vfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дима\\Desktop\\Home Work\\Практика\\TrainingPractice_02\\Resourceful_chauffeur\\Resourceful_chauffeur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.9\\microsoft.netcore.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

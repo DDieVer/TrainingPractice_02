@@ -1,0 +1,2 @@
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Release\netcoreapp3.1\publish\Resourceful_chauffeur.pdb
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Release\netcoreapp3.1\publish\Resourceful_chauffeur.exe

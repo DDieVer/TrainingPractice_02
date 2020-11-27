@@ -1,0 +1,13 @@
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Debug\netcoreapp3.1\Resourceful_chauffeur.exe
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Debug\netcoreapp3.1\Resourceful_chauffeur.deps.json
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Debug\netcoreapp3.1\Resourceful_chauffeur.runtimeconfig.json
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Debug\netcoreapp3.1\Resourceful_chauffeur.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Debug\netcoreapp3.1\Resourceful_chauffeur.dll
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\bin\Debug\netcoreapp3.1\Resourceful_chauffeur.pdb
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.dll
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.pdb
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_02\Resourceful_chauffeur\obj\Debug\netcoreapp3.1\Resourceful_chauffeur.genruntimeconfig.cache

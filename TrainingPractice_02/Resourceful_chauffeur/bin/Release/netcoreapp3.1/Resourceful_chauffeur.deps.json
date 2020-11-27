@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Resourceful_chauffeur/1.0.0": {
+        "runtime": {
+          "Resourceful_chauffeur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resourceful_chauffeur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
